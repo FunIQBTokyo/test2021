@@ -1,3 +1,3 @@
 # test2021
 
-This is a test reposite to make our programs public.
+This is a test reposite to prepare our programs public.
